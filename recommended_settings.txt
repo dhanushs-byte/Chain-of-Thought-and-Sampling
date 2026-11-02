@@ -1,0 +1,4 @@
+Extraction: temperature 0.0–0.2, top_p 0.3–0.5, structured JSON + schema validation.
+Summarisation: temperature 0.2–0.4, top_p 0.8–0.95, concise length and source-faithfulness instructions.
+Brainstorming: temperature 0.7–1.0, top_p 0.9–1.0, request diverse options and constraints.
+Chain-of-thought is wasteful for simple extraction, formatting, short summaries, or tasks solvable in one direct step.

@@ -1,0 +1,27 @@
+[
+  {
+    "id": "W1",
+    "problem": "A notebook costs \u20b940. Ravi buys 3 notebooks and pays with \u20b9200. How much change does he receive?",
+    "answer": "80"
+  },
+  {
+    "id": "W2",
+    "problem": "A train travels 60 km in 1 hour. At the same speed, how far does it travel in 2.5 hours?",
+    "answer": "150"
+  },
+  {
+    "id": "W3",
+    "problem": "Maya has 24 candies. She gives one-third to her friend and then buys 6 more. How many candies does she have?",
+    "answer": "22"
+  },
+  {
+    "id": "W4",
+    "problem": "A shirt marked \u20b9800 is discounted by 25%. What is the sale price?",
+    "answer": "600"
+  },
+  {
+    "id": "W5",
+    "problem": "A class has 30 students. If 40% are absent, how many students are present?",
+    "answer": "18"
+  }
+]
